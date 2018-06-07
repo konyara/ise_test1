@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <encryption_context/>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_snc_ise_test_1.puroduct_list_user</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>puroduct_list_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>ryoichi.yaochi</sys_created_by>
+        <sys_created_on>2018-06-07 06:39:54</sys_created_on>
+        <sys_id>e7564e294faed74055f33cb28110c73b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_ise_test_1.puroduct_list_user</sys_name>
+        <sys_package display_value="ISE TEST 1" source="x_snc_ise_test_1">463482e54faed74055f33cb28110c775</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ISE TEST 1">463482e54faed74055f33cb28110c775</sys_scope>
+        <sys_update_name>sys_user_role_e7564e294faed74055f33cb28110c73b</sys_update_name>
+        <sys_updated_by>ryoichi.yaochi</sys_updated_by>
+        <sys_updated_on>2018-06-07 06:39:54</sys_updated_on>
+    </sys_user_role>
+</record_update>

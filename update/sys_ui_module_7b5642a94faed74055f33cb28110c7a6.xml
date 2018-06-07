@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="puroduct list">7f5642a94faed74055f33cb28110c7a4</application>
+        <filter/>
+        <name>puroduct lists</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_snc_ise_test_1.puroduct_list_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>ryoichi.yaochi</sys_created_by>
+        <sys_created_on>2018-06-07 06:39:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7b5642a94faed74055f33cb28110c7a6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>puroduct lists</sys_name>
+        <sys_package display_value="ISE TEST 1" source="x_snc_ise_test_1">463482e54faed74055f33cb28110c775</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ISE TEST 1">463482e54faed74055f33cb28110c775</sys_scope>
+        <sys_update_name>sys_ui_module_7b5642a94faed74055f33cb28110c7a6</sys_update_name>
+        <sys_updated_by>ryoichi.yaochi</sys_updated_by>
+        <sys_updated_on>2018-06-07 06:39:56</sys_updated_on>
+        <table>x_snc_ise_test_1_puroduct_list</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

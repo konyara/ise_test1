@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="puroduct list" max_length="40" name="x_snc_ise_test_1_puroduct_list" type="collection">
+        <element label="Product code" max_length="40" name="product_code" type="string"/>
+        <element label="Product name" max_length="40" name="product_name" type="string"/>
+    </element>
+</database>
